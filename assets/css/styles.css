@@ -305,6 +305,15 @@ nav ul li {
 }
 /* Scroll to top button ends */
 
+/* Footer section */
+footer {
+  background-color: var(--bg-color);
+  padding: 1.25rem;
+  text-align: center;
+  margin: 2rem 0 0;
+}
+/* Footer section ends */
+
 /* General (utilities) */
 .icon-card {
   background-color: #fff;
