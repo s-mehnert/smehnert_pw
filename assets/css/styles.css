@@ -180,6 +180,12 @@ nav ul li {
   width: 11.875rem;
   height: 11.25rem;
 }
+
+.icon:hover {
+  width: 12.875rem;
+  height: 12.875rem;
+  cursor: pointer;
+}
 /* Skills section ends */
 
 /* Projects section */
