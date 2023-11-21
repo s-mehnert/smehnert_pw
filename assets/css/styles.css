@@ -6,9 +6,9 @@
     --bolder-font: 900;
     --bg-color: #fcfcfc;
     --primary-color: #47474e;
-    --secondary-color: #ff7235;
+    --secondary-color: #226878;
     --primary-shadow: #8b8eaf;
-    --secondary-shadow: #a17a69;
+    --secondary-shadow: #59767d;
     --bottom-margin: 0.5rem;
     --bottom-margin-2: 1rem;
     --line-height: 1.7rem;
@@ -284,7 +284,8 @@ nav ul li {
 }
 
 .submit-btn:hover {
-  background-color: var(--primary-color);
+  background-color: var(--secondary-color);
+  color: #fff;
   border: 2px solid var(--primary-color);
   cursor: pointer;
 }
@@ -302,6 +303,12 @@ nav ul li {
 .socicon {
   width: 2rem;
   height: 2rem;
+  margin-top: 0.3rem;
+}
+
+.socicon:hover {
+  width: 2.5rem;
+  height: 2.5rem;
 }
 /* Social button ends */
 
@@ -317,6 +324,11 @@ nav ul li {
 .up-arrow {
   width: 3rem;
   height: 3rem;
+}
+
+.up-arrow:hover {
+  width: 4rem;
+  height: 4rem;
 }
 /* Scroll to top button ends */
 
