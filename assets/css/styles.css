@@ -242,7 +242,6 @@ nav ul li {
 
 .contact p {
   line-height: 1.4;
-  padding: 0 20rem;
 }
 
 .contact h2 {
@@ -475,6 +474,10 @@ footer {
     width: 18.3rem;
   }
 
+  .more-about p {
+    line-height: 1.4;
+  }
+
   .project-container {
     width: 17.875rem;
   }
@@ -488,3 +491,4 @@ footer {
     max-width: 17.75rem;
   }
 }
+
